@@ -1,17 +1,17 @@
 ---
 layout: page
-title: CMIP6 Data Hackathon
+title: UCL UCKP Hackathon
 menu_title: Home
 menu_icon: house-door
 ---
 
 {:.secondary}
-# in association with Bristol, Met Office, Exeter and Leeds
+# in association with Met Office
 
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
     <dl>
-        <dt>3 March 2021</dt>
+        <dt>31 March 2021</dt>
         <dd>
             Applications open for participants<br>
             <a href="{% link registration.md %}" class="btn">Register now</a>
